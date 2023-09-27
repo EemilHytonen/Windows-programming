@@ -1,0 +1,14 @@
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\bin\Debug\net6.0\Testailut.exe
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\bin\Debug\net6.0\Testailut.deps.json
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\bin\Debug\net6.0\Testailut.runtimeconfig.json
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\bin\Debug\net6.0\Testailut.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\bin\Debug\net6.0\Testailut.pdb
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.AssemblyInfoInputs.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.AssemblyInfo.cs
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.csproj.CoreCompileInputs.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\refint\Testailut.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.pdb
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\Testailut.genruntimeconfig.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Testailut\Testailut\obj\Debug\net6.0\ref\Testailut.dll
