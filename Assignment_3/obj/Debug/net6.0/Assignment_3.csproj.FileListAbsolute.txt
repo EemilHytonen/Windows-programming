@@ -1,0 +1,14 @@
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\bin\Debug\net6.0\Assignment_3.exe
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\bin\Debug\net6.0\Assignment_3.deps.json
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\bin\Debug\net6.0\Assignment_3.runtimeconfig.json
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\bin\Debug\net6.0\Assignment_3.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\bin\Debug\net6.0\Assignment_3.pdb
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.AssemblyInfoInputs.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.AssemblyInfo.cs
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\refint\Assignment_3.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.pdb
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\Assignment_3.genruntimeconfig.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_3\obj\Debug\net6.0\ref\Assignment_3.dll
