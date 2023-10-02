@@ -36,6 +36,11 @@ class Concert : IComparable<Concert>
         this.Time = Time;
         this.Price = Price;
     }
+
+    public double getPrice()
+    {
+        return this.Price;
+    }
     public override string ToString()
     {
         return $"{Title},{Location},{Date},{Time},{Price}";
@@ -122,7 +127,7 @@ class ConcertPriceComparer : IComparer
         {
             var concertX = (Concert)x;
             var concertY = (Concert)y;
-            return concertX.CompareTo(concertY); // Use Concert's CompareTo method.
+            return concertX.CompareTo(concertY); // Use class Concert's CompareTo method.
         }
         throw new ArgumentException("Objects are not of type Concert");
     }
@@ -146,12 +151,36 @@ class Program
         concerts.Add(concert4);
         concerts.Add(concert5);
 
+
+        Console.WriteLine("Concerts before sorting:\n"); // Copy paste just to get the list out 
+        Console.WriteLine(concert1);
+        Console.WriteLine(concert2);
+        Console.WriteLine(concert3);
+        Console.WriteLine(concert4);
+        Console.WriteLine(concert5);
+
+        Console.WriteLine("\nConcerts after sorting:\n");
+
         concerts.Sort(new ConcertPriceComparer()); // Use the custom comparer.
 
         foreach (Concert concert in concerts)
         {
             Console.WriteLine(concert.ToString());
         }
+
+        Console.WriteLine("\nConcert 1 == Concert 2: " + (concert1 == concert2));
+
+        Console.WriteLine("\nConcert 1 < Concert 2: " + (concert1 < concert2));
+
+        Console.WriteLine("\nConcsert 1 > Concert 2: " + (concert1 > concert2));
+
+        Console.WriteLine($"\nConsert 1 original price is {concert1.getPrice()}");
+        concert1++;
+        Console.WriteLine($"\nConsert 1 increased price is {concert1.getPrice()}");
+        concert1--; // Return to original price
+        concert1--;
+        Console.WriteLine($"\nConsert 1 decreased price is {concert1.getPrice()}");
+
 
     }
 }
