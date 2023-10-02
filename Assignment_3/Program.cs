@@ -119,6 +119,7 @@ class Concert : IComparable<Concert>
     }
 }
 
+// Another way to sort the arraylist is to change it's type
 class ConcertPriceComparer : IComparer
 {
     public int Compare(object x, object y)
