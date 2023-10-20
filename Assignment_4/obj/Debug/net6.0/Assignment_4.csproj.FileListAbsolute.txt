@@ -1,0 +1,14 @@
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.AssemblyInfoInputs.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.AssemblyInfo.cs
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\bin\Debug\net6.0\Assignment_4.exe
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\bin\Debug\net6.0\Assignment_4.deps.json
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\bin\Debug\net6.0\Assignment_4.runtimeconfig.json
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\bin\Debug\net6.0\Assignment_4.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\bin\Debug\net6.0\Assignment_4.pdb
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\refint\Assignment_4.dll
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.pdb
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\Assignment_4.genruntimeconfig.cache
+C:\Users\Eemil\Desktop\Koulu\Windows-ohjelmointi\repos\Assignment_4\obj\Debug\net6.0\ref\Assignment_4.dll
